@@ -1,0 +1,26 @@
+.pokemonContainer {
+    position: relative;
+    display: block;
+    border: gray solid 1px;
+}
+
+.pokemonImg {
+    width: 200px;
+    object-fit: cover;
+    padding: 20px;
+}
+
+.pokemonName {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.pokemonNumber {
+    position: absolute;
+    top: -16px;
+    left: 0;
+    background: black;
+    color: white;
+    padding: 5px;
+}

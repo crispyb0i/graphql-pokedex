@@ -1,0 +1,9 @@
+form {
+    text-align: center;
+    margin: 20px;
+}
+
+.searchInput {
+    display: block;
+    margin: auto;
+}
