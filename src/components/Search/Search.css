@@ -1,3 +1,10 @@
+.searchContainer {
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    margin: auto;
+}
+
 form {
     text-align: center;
     margin: 20px;
@@ -6,4 +13,8 @@ form {
 .searchInput {
     display: block;
     margin: auto;
+}
+
+.pokemonNotFound {
+    text-align: center;
 }
