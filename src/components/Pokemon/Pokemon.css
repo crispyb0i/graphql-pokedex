@@ -1,12 +1,12 @@
 .pokemonContainer {
     position: relative;
     border: gray solid 1px;
-    width: 230px;
+    width: 200px;
     margin: 20px auto;
 }
 
 .pokemonImg {
-    width: 200px;
+    width: 80%;
     object-fit: cover;
     padding: 20px;
 }
@@ -14,13 +14,13 @@
 .pokemonName {
     margin-top: 30px;
     text-align: center;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .pokemonNumber {
     position: absolute;
-    top: -16px;
-    left: 0;
+    top: -17px;
+    left: -1px;
     background: black;
     color: white;
     padding: 5px;
